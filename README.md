@@ -12,7 +12,7 @@ The resolution of a video refers to the number of pixels in each frame or we can
 When a video is said to have a resolution of 1920x1080 pixels, it essentially means the video has a width of 1920 pixels and a height of 1080 pixels.
 Higher resolution videos have more detail but also require more storage space and processing power.
 
-2. *__Frame Rate__**:
+2. **Frame Rate**:
 A video is composed of multiple separate frames, or images. In order to give the impression of motion, these frames are displayed quickly one after the other.
  The number of frames displayed per second is called the "frame rate." Common frame rates include 24, 30, and 60 frames per second (fps) or hertz (general unit for frequency). Higher frame rates result in smoother motion.
 
